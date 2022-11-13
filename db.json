@@ -1,0 +1,26 @@
+{
+  "noteAppData": [
+    {
+      "title": "Task 1",
+      "noteText": "Note 1",
+      "date": 1668321612380,
+      "id": 1
+    },
+    {
+      "title": "Task 2 ",
+      "noteText": "Note 3",
+      "date": 1668321768893,
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
